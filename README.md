@@ -6,7 +6,7 @@ Built as a learning project to practice React fundamentals — hooks, state mana
 
 ## Live Demo
 
-[View on Vercel →](#) *(replace with your deployment URL)*
+[View on Vercel →](https://recipe-finder-lime-psi.vercel.app)
 
 ## Features
 
